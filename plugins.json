@@ -581,12 +581,11 @@
     "name": "KultFilmler"
   },
   {
-    "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
+    "iconUrl": "https://netfree.cc/mobile/img/nf2/C192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 38593,
+    "fileSize": 36631,
     "status": 1,
-    "language": "en",
     "authors": [
       "kerimmkirac"
     ],
@@ -594,11 +593,11 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 9,
-    "internalName": "NetflixMirror",
-    "description": "Netflix, PrimeVideo Content in Multiple Languages",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
-    "name": "NetflixMirror"
+    "version": 1,
+    "internalName": "NetflixMirrorProvider",
+    "description": "Netflix, Primevideo extensions",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirrorProvider.cs3",
+    "name": "NetflixMirrorProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/oha.png",
