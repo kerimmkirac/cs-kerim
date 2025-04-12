@@ -19,6 +19,25 @@
     "name": "4KFilmIzlesene"
   },
   {
+    "iconUrl": "https://anizm.net/upload/assets/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 22615,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "Anizm",
+    "description": "Türkçe Altyazılı Anime İzle.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Anizm.cs3",
+    "name": "Anizm"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -777,6 +796,26 @@
     "name": "Vavoo"
   },
   {
+    "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 15279,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Watch32",
+    "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
+    "name": "Watch32"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -818,7 +857,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 36328,
+    "fileSize": 38922,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -827,7 +866,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "YabanciDizi",
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YabanciDizi.cs3",
@@ -909,24 +948,6 @@
     "description": "IPTV Cloudstream eklentisi",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/IPTVProvider.cs3",
     "name": "IPTV"
-  },
-  {
-    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TV"
-    ],
-    "version": 1,
-    "internalName": "Watch32",
-    "description": "Watch32",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Watch32.cs3",
-    "name": "Watch32"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
