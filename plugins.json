@@ -137,16 +137,17 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17454,
+    "fileSize": 17813,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziGom.cs3",
@@ -818,7 +819,7 @@
     "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15279,
+    "fileSize": 15271,
     "status": 1,
     "language": "en",
     "authors": [
@@ -890,26 +891,6 @@
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YabanciDizi.cs3",
     "name": "YabanciDizi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14031,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Cloudburst",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 1,
-    "internalName": "YouTube",
-    "description": "YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YouTube.cs3",
-    "name": "YouTube"
   },
   {
     "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
