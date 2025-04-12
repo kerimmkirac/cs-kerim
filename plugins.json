@@ -213,7 +213,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29296,
+    "fileSize": 29743,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -222,7 +222,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMom.cs3",
@@ -464,7 +464,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22402,
+    "fileSize": 22825,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -473,7 +473,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "HDFilmSitesi",
     "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmSitesi.cs3",
@@ -684,7 +684,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21746,
+    "fileSize": 22073,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -694,7 +694,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "SetFilmIzle",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SetFilmIzle.cs3",
@@ -756,6 +756,25 @@
     "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tafdi.cs3",
     "name": "Tafdi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 17194,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "TurkAnime",
+    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TurkAnime.cs3",
+    "name": "TurkAnime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
