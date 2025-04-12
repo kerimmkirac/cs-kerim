@@ -857,7 +857,7 @@
     "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
     "apiVersion": 2,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 31918,
+    "fileSize": 36727,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -890,6 +890,24 @@
     "description": "Sinewix diziler için hızlı ve stabil bir çözümdür.",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/SineWix.cs3",
     "name": "Sinewix"
+  },
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/ogxniIVkA_NDWLbPPhbzitf3tOMRBXhRLKr6nbIdrRTu1t1KC4QDDu4EDvltUeSog9I",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "IPTV",
+    "description": "IPTV",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/IPTVProvider.cs3",
+    "name": "IPTV"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
