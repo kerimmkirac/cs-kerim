@@ -892,22 +892,22 @@
     "name": "Sinewix"
   },
   {
-    "iconUrl": "https://play-lh.googleusercontent.com/ogxniIVkA_NDWLbPPhbzitf3tOMRBXhRLKr6nbIdrRTu1t1KC4QDDu4EDvltUeSog9I",
-    "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "Live"
+      "live"
     ],
     "version": 1,
     "internalName": "IPTV",
-    "description": "IPTV",
+    "description": "IPTV için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/IPTVProvider.cs3",
-    "name": "IPTV"
+    "name": "IPTV",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WF2_SDH2Ez8QTobiSBrKHSpS3B_1M-XPqg&s"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
