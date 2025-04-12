@@ -892,22 +892,22 @@
     "name": "Sinewix"
   },
   {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
     "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "live"
+      "TV"
     ],
     "version": 1,
-    "internalName": "IPTV",
-    "description": "IPTV için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/IPTVProvider.cs3",
-    "name": "IPTV",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WF2_SDH2Ez8QTobiSBrKHSpS3B_1M-XPqg&s"
+    "internalName": "Watch32",
+    "description": "Watch32",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Watch32.cs3",
+    "name": "Watch32"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
