@@ -605,7 +605,7 @@
     "iconUrl": "https://netfree.cc/mobile/img/nf2/C192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 36631,
+    "fileSize": 36645,
     "status": 1,
     "authors": [
       "kerimmkirac"
@@ -614,7 +614,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "NetflixMirrorProvider",
     "description": "Netflix, Primevideo extensions",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirrorProvider.cs3",
@@ -676,7 +676,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RecTV.cs3",
