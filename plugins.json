@@ -970,6 +970,25 @@
     "name": "IPTV"
   },
   {
+    "iconUrl": "https://github.com/kerimmkirac/cs-kerim/blob/715c1e5c6087523a08a48e596f1fd89619859a69/yereldiziler.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 36921,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TV"
+    ],
+    "version": 1,
+    "internalName": "YerelDiziler",
+    "description": "YerelDiziler Cloudstream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
+    "name": "YerelDiziler"
+  },
+  {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "apiVersion": 1,
     "status": 1,
