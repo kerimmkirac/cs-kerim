@@ -666,7 +666,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22170,
+    "fileSize": 18745,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -685,7 +685,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18217,
+    "fileSize": 18274,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -742,7 +742,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17194,
+    "fileSize": 15326,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -751,7 +751,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "TurkAnime",
     "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TurkAnime.cs3",
@@ -780,7 +780,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21199,
+    "fileSize": 20970,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -819,7 +819,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21822,
+    "fileSize": 20856,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -828,7 +828,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": 2,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebteIzle.cs3",
