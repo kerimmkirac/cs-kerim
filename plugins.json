@@ -956,6 +956,24 @@
       "kerimmkirac"
     ],
     "tvTypes": [
+      "Tv"
+    ],
+    "version": 1,
+    "internalName": "YerelDiziler",
+    "description": "YerelDiziler için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
+    "name": "YerelDiziler",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
       "Anime"
     ],
     "version": 1,
