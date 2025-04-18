@@ -502,26 +502,6 @@
     "name": "HDFilmSitesi"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/huhu.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19458,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "GitLatte",
-      "patr0nq"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "HuhuTO",
-    "description": "Huhu.to Spor Türkiye televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HuhuTO.cs3",
-    "name": "HuhuTO"
-  },
-  {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -562,26 +542,6 @@
     "name": "JetFilmizle"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/kool.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19457,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "GitLatte",
-      "patr0nq"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "KoolTO",
-    "description": "Kool.to Spor Türkiye televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KoolTO.cs3",
-    "name": "KoolTO"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -620,26 +580,6 @@
     "description": "Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
     "name": "NetflixMirror"
-  },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/oha.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19447,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "GitLatte",
-      "patr0nq"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "OhaTO",
-    "description": "Oha.to Spor Türkiye televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/OhaTO.cs3",
-    "name": "OhaTO"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/onepace.png",
@@ -835,25 +775,6 @@
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/UgurFilm.cs3",
     "name": "UgurFilm"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=vavoo.to&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 12287,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 2,
-    "internalName": "Vavoo",
-    "description": "Vavoo Kanalları",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Vavoo.cs3",
-    "name": "Vavoo"
   },
   {
     "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
