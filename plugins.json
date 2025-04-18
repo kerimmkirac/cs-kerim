@@ -607,26 +607,7 @@
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "fileSize": 36949,
     "status": 1,
-    "language": "hi",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "NetflixMirror",
-    "description": "Netflix, PrimeVideo Content in Multiple Languages",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
-    "name": "NetflixMirror"
-  },
-  {
-    "iconUrl": "https://netfree.cc/mobile/img/nf2/C192.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 36645,
-    "status": 1,
+    "language": "en",
     "authors": [
       "kerimmkirac"
     ],
@@ -635,10 +616,10 @@
       "TvSeries"
     ],
     "version": 2,
-    "internalName": "NetflixMirrorProvider",
-    "description": "Netflix, Primevideo extensions",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirrorProvider.cs3",
-    "name": "NetflixMirrorProvider"
+    "internalName": "NetflixMirror",
+    "description": "Netflix, PrimeVideo Content in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
+    "name": "NetflixMirror"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/oha.png",
