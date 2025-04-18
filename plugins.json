@@ -1017,6 +1017,24 @@
       "kerimmkirac"
     ],
     "tvTypes": [
+      "Tv,Live"
+    ],
+    "version": 1,
+    "internalName": "Tabii",
+    "description": "Tabii için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Tabii.cs3",
+    "name": "Tabii",
+    "iconUrl": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
       "Anime"
     ],
     "version": 1,
