@@ -447,7 +447,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22752,
+    "fileSize": 22760,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -456,7 +456,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "HDFilmCehennemi2",
     "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiyenin en güncel yüksek hd kalitede film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi2.cs3",
