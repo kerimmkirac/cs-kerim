@@ -157,7 +157,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18649,
+    "fileSize": 18626,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -166,7 +166,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
