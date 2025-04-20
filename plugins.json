@@ -974,6 +974,24 @@
       "kerimmkirac"
     ],
     "tvTypes": [
+      "Tv,Cartoon"
+    ],
+    "version": 1,
+    "internalName": "CizgiVeDizi",
+    "description": "CizgiVeDizi için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/CizgiVeDizi.cs3",
+    "name": "CizgiVeDizi",
+    "iconUrl": "https://cizgivedizi.com/Logo.png"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
       "Anime"
     ],
     "version": 1,
