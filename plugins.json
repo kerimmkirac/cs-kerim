@@ -992,6 +992,27 @@
       "kerimmkirac"
     ],
     "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "WebDramaTurkey",
+    "description": "WebDramaTurkey için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/WebDramaTurkey.cs3",
+    "name": "WebDramaTurkey",
+    "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=1.0.19"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
       "Anime"
     ],
     "version": 1,
