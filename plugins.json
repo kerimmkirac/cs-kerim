@@ -369,7 +369,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14652,
+    "fileSize": 21553,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -485,7 +485,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22760,
+    "fileSize": 23796,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -679,6 +679,25 @@
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RoketDizi.cs3",
     "name": "RoketDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 28865,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie, TvSeries"
+    ],
+    "version": 1,
+    "internalName": "SelcukFlix",
+    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SelcukFlix.cs3",
+    "name": "SelcukFlix"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
