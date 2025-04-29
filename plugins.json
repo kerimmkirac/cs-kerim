@@ -949,25 +949,6 @@
     "name": "YabanciDizi"
   },
   {
-    "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
-    "apiVersion": 2,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 36727,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TV"
-    ],
-    "version": 1,
-    "internalName": "GolgeTV",
-    "description": "GolgeTV canlı TV ve diziler için hızlı ve stabil bir çözümdür.",
-    "url": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/raw/refs/heads/main/GolgeTV.cs3",
-    "name": "GolgeTV"
-  },
-  {
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -985,43 +966,6 @@
     "description": "Sinewix diziler için hızlı ve stabil bir çözümdür.",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/SineWix.cs3",
     "name": "Sinewix"
-  },
-  {
-    "iconUrl": "https://play-lh.googleusercontent.com/ogxniIVkA_NDWLbPPhbzitf3tOMRBXhRLKr6nbIdrRTu1t1KC4QDDu4EDvltUeSog9I",
-    "apiVersion": 2,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 30194,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "IPTV",
-    "description": "IPTV Cloudstream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/IPTVProvider.cs3",
-    "name": "IPTV"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Tv,Live"
-    ],
-    "version": 1,
-    "internalName": "Tabii",
-    "description": "Tabii için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Tabii.cs3",
-    "name": "Tabii",
-    "iconUrl": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -1058,24 +1002,6 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/CizgiVeDizi.cs3",
     "name": "CizgiVeDizi",
     "iconUrl": "https://cizgivedizi.com/Logo.png"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "CanliTvTurksat",
-    "description": "CanliTvTurksat için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/CanliTvTurksat.cs3",
-    "name": "CanliTvTurksat",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
