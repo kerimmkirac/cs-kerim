@@ -95,6 +95,25 @@
     "name": "CizgiMax"
   },
   {
+    "iconUrl": "https://cizgivedizi.com/Logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 23444,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "version": 1,
+    "internalName": "CizgiveDizi",
+    "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/CizgiveDizi.cs3",
+    "name": "CizgiveDizi"
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -332,7 +351,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmbip.com/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 12817,
+    "fileSize": 14344,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -341,11 +360,30 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "FilmBip",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmBip.cs3",
     "name": "FilmBip"
+  },
+  {
+    "iconUrl": "https://filmekseni.net/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 18676,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "FilmEkseni",
+    "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmEkseni.cs3",
+    "name": "FilmEkseni"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
@@ -559,6 +597,26 @@
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/JetFilmizle.cs3",
     "name": "JetFilmizle"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 24947,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "KickTR",
+    "description": "Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KickTR.cs3",
+    "name": "KickTR"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
@@ -796,6 +854,44 @@
     "name": "TO"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 12632,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "TRanimaci",
+    "description": "TRanimaci - Türkiye'nin Online Anime izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TRanimaci.cs3",
+    "name": "TRanimaci"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 13692,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "TRasyalog",
+    "description": "TRasyalog izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TRasyalog.cs3",
+    "name": "TRasyalog"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -895,7 +991,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15336,
+    "fileSize": 15374,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -904,7 +1000,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "WFilmİzle",
     "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WFilmİzle.cs3",
@@ -965,24 +1061,6 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
     "name": "YerelDiziler",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Tv,Cartoon"
-    ],
-    "version": 2,
-    "internalName": "CizgiVeDizi",
-    "description": "CizgiVeDizi için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/CizgiVeDizi.cs3",
-    "name": "CizgiVeDizi",
-    "iconUrl": "https://cizgivedizi.com/Logo.png"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
