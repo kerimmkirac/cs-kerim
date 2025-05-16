@@ -215,7 +215,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizifun2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 30990,
+    "fileSize": 30991,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -225,7 +225,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziFun",
     "description": "Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziFun.cs3",
@@ -264,7 +264,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
@@ -519,6 +519,26 @@
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
     "name": "FilmModu"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 18149,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "FullHDFilm",
+    "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilm.cs3",
+    "name": "FullHDFilm"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
@@ -814,6 +834,25 @@
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SezonlukDizi.cs3",
     "name": "SezonlukDizi"
+  },
+  {
+    "iconUrl": "https://sinefy3.com/assets/img/sinefy/icon-144x144.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 19509,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie, TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Sinefy",
+    "description": "Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinefy.cs3",
+    "name": "Sinefy"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
