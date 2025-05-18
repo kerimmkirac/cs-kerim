@@ -97,6 +97,25 @@
     "name": "Anizm"
   },
   {
+    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 13436,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "AsyaFanatiklerim",
+    "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaFanatiklerim.cs3",
+    "name": "AsyaFanatiklerim"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -1156,6 +1175,60 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AsyaAnimeleri.cs3",
     "name": "AsyaAnimeleri",
     "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "AsyaFilmIzlesene",
+    "description": "AsyaFilmIzlesene için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AsyaFilmIzlesene.cs3",
+    "name": "AsyaFilmIzlesene",
+    "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Kanal7",
+    "description": "Kanal7 için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Kanal7.cs3",
+    "name": "Kanal7",
+    "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Puhu",
+    "description": "Puhu için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Puhu.cs3",
+    "name": "Puhu",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
