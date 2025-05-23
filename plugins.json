@@ -601,7 +601,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22487,
+    "fileSize": 24529,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -611,7 +611,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 5,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi.cs3",
