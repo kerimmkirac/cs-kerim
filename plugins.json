@@ -410,7 +410,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15488,
+    "fileSize": 15489,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -419,7 +419,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYou.cs3",
@@ -505,7 +505,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21553,
+    "fileSize": 21587,
     "status": 1,
     "language": "tr",
     "authors": [
