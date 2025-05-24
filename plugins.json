@@ -618,6 +618,25 @@
     "name": "HDFilmCehennemi"
   },
   {
+    "iconUrl": "https://hdfilmcehennemi2.to/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 14605,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "HdFilmCehennemi2",
+    "description": "Full hd film izleme keyfini hdfilmcehennemi2.net ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.cs3",
+    "name": "HdFilmCehennemi2"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
