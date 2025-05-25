@@ -3,7 +3,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 12933,
+    "fileSize": 27001,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "4KFilmIzleme",
     "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzleme.cs3",
@@ -52,7 +52,7 @@
       "Anime",
       "Ova"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "AnimeIzlesene",
     "description": "Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AnimeIzlesene.cs3",
@@ -71,7 +71,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Animeler",
     "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Animeler.cs3",
@@ -90,7 +90,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Animex",
     "description": "Anime izle, Anime türkce altyazılı , birbirinden farklı ve güzel en güncel animeleri keyifle seyredebileceğiniz Animex.com.tr anime severlerin en popüler türkçe anime izleme sitesidir.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Animex.cs3",
@@ -100,16 +100,16 @@
     "iconUrl": "https://anizm.net/upload/assets/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22588,
+    "fileSize": 22672,
     "status": 1,
     "language": "tr",
     "authors": [
-      "kerimmkirac"
+      "kraptor"
     ],
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": 3,
     "internalName": "Anizm",
     "description": "Türkçe Altyazılı Anime İzle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Anizm.cs3",
