@@ -1210,7 +1210,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "XPrime",
     "description": "XPrime.Tv",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/XPrime.cs3",
