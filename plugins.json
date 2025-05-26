@@ -3,7 +3,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 27001,
+    "fileSize": 25868,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 4,
     "internalName": "4KFilmIzleme",
     "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzleme.cs3",
@@ -41,7 +41,7 @@
     "iconUrl": "https://www.animeizlesene.com/public/assets/img/favicon-32x32.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23575,
+    "fileSize": 24102,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -52,7 +52,7 @@
       "Anime",
       "Ova"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "AnimeIzlesene",
     "description": "Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AnimeIzlesene.cs3",
@@ -309,6 +309,25 @@
     "name": "DiziKorea"
   },
   {
+    "iconUrl": "https://dizikral.nl/mofy/img/192x192_.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 18895,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "DiziKral",
+    "description": "DiziKRAL - ücretsiz yabancı dizi izle, film izle, anime izle.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKral.cs3",
+    "name": "DiziKral"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -369,7 +388,7 @@
     "iconUrl": "view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17239,
+    "fileSize": 17232,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -673,6 +692,25 @@
     "description": "Full hd film izleme keyfini hdfilmcehennemi2.net ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.cs3",
     "name": "HdFilmCehennemi2"
+  },
+  {
+    "iconUrl": "https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 15124,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "HdFilmCehennemi2.rip",
+    "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.rip.cs3",
+    "name": "HdFilmCehennemi2.rip"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
@@ -1158,6 +1196,25 @@
     "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WFilmİzle.cs3",
     "name": "WFilmİzle"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 36466,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "nikyokki"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 3,
+    "internalName": "XPrime",
+    "description": "XPrime.Tv",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/XPrime.cs3",
+    "name": "XPrime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
