@@ -1211,7 +1211,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "XPrime",
     "description": "XPrime.Tv",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/XPrime.cs3",
