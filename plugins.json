@@ -1201,16 +1201,17 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 39296,
+    "fileSize": 39299,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki"
+      "kerimmkirac"
     ],
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "XPrime",
     "description": "XPrime.Tv",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/XPrime.cs3",
