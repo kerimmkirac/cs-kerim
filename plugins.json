@@ -116,6 +116,25 @@
     "name": "Anizm"
   },
   {
+    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 14350,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 2,
+    "internalName": "AsyaAnimeleri",
+    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaAnimeleri.cs3",
+    "name": "AsyaAnimeleri"
+  },
+  {
     "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -1272,24 +1291,6 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
     "name": "YerelDiziler",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "AsyaAnimeleri",
-    "description": "AsyaAnimeleri için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AsyaAnimeleri.cs3",
-    "name": "AsyaAnimeleri",
-    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
