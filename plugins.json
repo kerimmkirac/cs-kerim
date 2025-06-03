@@ -243,7 +243,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DaddyLive",
     "description": "DaddyLive Mor kanallar VPN olmadan ve Etkinlik kanalları. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DaddyLive.cs3",
