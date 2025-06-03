@@ -233,7 +233,7 @@
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19396,
+    "fileSize": 19393,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1043,25 +1043,6 @@
     "description": "TLC",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TLC.cs3",
     "name": "TLC"
-  },
-  {
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJ7I3L6IGdd4RBNdkdVFMIX0Br366si4Q6w&s",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21926,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "TO",
-    "description": "TO Grubu spor kanallarını içerir: Vavoo.to, Huhu.to, Kool.to, Oha.to",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TO.cs3",
-    "name": "TO"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
