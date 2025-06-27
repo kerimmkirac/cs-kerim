@@ -407,7 +407,7 @@
     "iconUrl": "view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17232,
+    "fileSize": 17238,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -416,7 +416,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziMore",
     "description": "Sadece Dizi izlemenin Tek Adresin yerli yabancı dizi izlemek için dizimore.com",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMore.cs3",
