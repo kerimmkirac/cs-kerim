@@ -230,26 +230,6 @@
     "name": "CizgiveDizi"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19393,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "GitLatte",
-      "patr0nq"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 2,
-    "internalName": "DaddyLive",
-    "description": "DaddyLive Mor kanallar VPN olmadan ve Etkinlik kanalları. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DaddyLive.cs3",
-    "name": "DaddyLive"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -326,25 +306,6 @@
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
     "name": "DiziKorea"
-  },
-  {
-    "iconUrl": "https://dizikral.nl/mofy/img/192x192_.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18887,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "DiziKral",
-    "description": "DiziKRAL - ücretsiz yabancı dizi izle, film izle, anime izle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKral.cs3",
-    "name": "DiziKral"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
@@ -540,25 +501,6 @@
     "name": "FilmEkseni"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17149,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "Filmİzlesene",
-    "description": "Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Filmİzlesene.cs3",
-    "name": "Filmİzlesene"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -600,7 +542,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14786,
+    "fileSize": 14732,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -609,7 +551,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "FilmModu",
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
@@ -658,7 +600,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 31424,
+    "fileSize": 31048,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -667,7 +609,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
@@ -697,7 +639,7 @@
     "iconUrl": "https://hdfilmcehennemi2.to/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14605,
+    "fileSize": 14609,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -706,7 +648,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "HdFilmCehennemi2",
     "description": "Full hd film izleme keyfini hdfilmcehennemi2.net ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.cs3",
@@ -771,29 +713,10 @@
     "name": "HDFilmSitesi"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14556,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "JetFilmizle",
-    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/JetFilmizle.cs3",
-    "name": "JetFilmizle"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24947,
+    "fileSize": 24938,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -803,7 +726,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "KickTR",
     "description": "Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KickTR.cs3",
@@ -828,47 +751,6 @@
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KultFilmler.cs3",
     "name": "KultFilmler"
-  },
-  {
-    "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 36949,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "NetflixMirror",
-    "description": "Netflix, PrimeVideo Content in Multiple Languages",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
-    "name": "NetflixMirror"
-  },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/onepace.png",
-    "jarFileSize": 26315,
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 8122,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "OnePace",
-    "jarUrl": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/OnePace.jar",
-    "description": "One Pace",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/OnePace.cs3",
-    "name": "OnePace"
   },
   {
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
