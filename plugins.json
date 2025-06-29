@@ -752,6 +752,26 @@
     "name": "KultFilmler"
   },
   {
+    "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 42430,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "NetflixMirror",
+    "description": "Netflix, PrimeVideo, Disney+",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
+    "name": "NetflixMirror"
+  },
+  {
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
