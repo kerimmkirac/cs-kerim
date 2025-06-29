@@ -777,7 +777,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20738,
+    "fileSize": 36041,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -786,7 +786,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 7,
+    "version": 5,
     "internalName": "RoketDizi",
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RoketDizi.cs3",
@@ -815,7 +815,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22070,
+    "fileSize": 22653,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -825,7 +825,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "SetFilmIzle",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SetFilmIzle.cs3",
@@ -927,44 +927,6 @@
     "name": "TLC"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 12632,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "TRanimaci",
-    "description": "TRanimaci - Türkiye'nin Online Anime izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TRanimaci.cs3",
-    "name": "TRanimaci"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 13692,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "TRasyalog",
-    "description": "TRasyalog izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TRasyalog.cs3",
-    "name": "TRasyalog"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -1064,7 +1026,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15374,
+    "fileSize": 15386,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1073,7 +1035,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "WFilmİzle",
     "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WFilmİzle.cs3",
