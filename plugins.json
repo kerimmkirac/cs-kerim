@@ -346,7 +346,7 @@
     "name": "DiziMom"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "fileSize": 17240,
@@ -359,7 +359,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
@@ -634,24 +634,6 @@
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi"
-  },
-  {
-    "iconUrl": "https://hdfilmcehennemi2.to/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "HdFilmCehennemi2",
-    "description": "Full hd film izleme keyfini hdfilmcehennemi2.net ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.cs3",
-    "name": "HdFilmCehennemi2"
   },
   {
     "iconUrl": "https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png",
