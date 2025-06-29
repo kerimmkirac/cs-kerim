@@ -327,25 +327,6 @@
     "name": "DiziMom"
   },
   {
-    "iconUrl": "view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17238,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "DiziMore",
-    "description": "Sadece Dizi izlemenin Tek Adresin yerli yabancı dizi izlemek için dizimore.com",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMore.cs3",
-    "name": "DiziMore"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -601,7 +582,6 @@
     "iconUrl": "https://hdfilmcehennemi2.to/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14609,
     "status": 1,
     "language": "tr",
     "authors": [
