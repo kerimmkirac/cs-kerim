@@ -38,6 +38,25 @@
     "name": "4KFilmIzlesene"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 29209,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeciX",
+    "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AnimeciX.cs3",
+    "name": "AnimeciX"
+  },
+  {
     "iconUrl": "https://www.animeizlesene.com/public/assets/img/favicon-32x32.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -1231,23 +1250,5 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/WebDramaTurkey.cs3",
     "name": "WebDramaTurkey",
     "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=1.0.19"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "AnimeciX",
-    "description": "AnimeciX için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AnimeciX.cs3",
-    "name": "AnimeciX",
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anm.cx&size=%size%"
   }
 ]
