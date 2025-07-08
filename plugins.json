@@ -525,7 +525,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmizleilk.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19637,
+    "fileSize": 19621,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -535,11 +535,11 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
-    "internalName": "filmIzleIlk",
+    "version": 2,
+    "internalName": "FilmIzleIlk",
     "description": "Filmizleilk.com Yerli ve Yabancı en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/filmIzleIlk.cs3",
-    "name": "filmIzleIlk"
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmIzleIlk.cs3",
+    "name": "FilmIzleIlk"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
