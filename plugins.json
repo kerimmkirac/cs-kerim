@@ -754,6 +754,26 @@
     "name": "HDFilmSitesi"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://hotleak.vip/&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 11930,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "kerimmkirac",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "version": 1,
+    "internalName": "HotLeak",
+    "description": "Hotleak is the best free porn site of Millions Exclusive Leak contents such as Images, Gallery and Videos.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HotLeak.cs3",
+    "name": "HotLeak"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
