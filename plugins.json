@@ -676,6 +676,25 @@
     "name": "FullHDFilmizlesene"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdabla.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 13609,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "version": 1,
+    "internalName": "HdAbla",
+    "description": "Porno film izlemek için HdAbla sitesini ziyaret edin. Keyifle mobil sikiş seyret. Sex ve rokettube seks videolarını güncel olarak Full HD kalitede bedava adult porn sunuyoruz",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdAbla.cs3",
+    "name": "HdAbla"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
