@@ -310,21 +310,22 @@
     "name": "DiziGom"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.pw&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18623,
+    "fileSize": 29233,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "AsianDrama"
+      "AsianDrama",
+      "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "DiziKorea",
-    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
     "name": "DiziKorea"
   },
