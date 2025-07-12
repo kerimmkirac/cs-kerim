@@ -78,25 +78,6 @@
     "name": "AnimeIzlesene"
   },
   {
-    "iconUrl": "https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24103,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 2,
-    "internalName": "Animeler",
-    "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Animeler.cs3",
-    "name": "Animeler"
-  },
-  {
     "iconUrl": "https://animex.tr/wp-content/uploads/2024/06/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
