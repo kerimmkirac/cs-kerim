@@ -678,25 +678,6 @@
     "name": "HDFilmCehennemi"
   },
   {
-    "iconUrl": "https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15124,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "HdFilmCehennemi2.rip",
-    "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.rip.cs3",
-    "name": "HdFilmCehennemi2.rip"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
