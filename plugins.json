@@ -251,6 +251,26 @@
     "name": "DiziBox"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 14927,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "Dizican",
+    "description": "DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizican.cs3",
+    "name": "Dizican"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizifun2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
