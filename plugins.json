@@ -211,6 +211,26 @@
     "name": "CizgiveDizi"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 15948,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "DiziAsia",
+    "description": "DiziAsia - Asya Dizileri İzle",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziAsia.cs3",
+    "name": "DiziAsia"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
