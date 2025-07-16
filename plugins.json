@@ -876,6 +876,27 @@
     "name": "RoketDizi"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=seicode.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 19842,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Anime",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "SeiCode",
+    "description": "Seicode ile en yeni animeler keşfedin!",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SeiCode.cs3",
+    "name": "SeiCode"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
