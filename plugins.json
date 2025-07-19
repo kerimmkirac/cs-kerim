@@ -41,16 +41,16 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29209,
+    "fileSize": 35176,
     "status": 1,
     "language": "tr",
     "authors": [
-      "kerimmkirac"
+      "kraptor123"
     ],
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": 5,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AnimeciX.cs3",
@@ -97,10 +97,10 @@
     "name": "Animex"
   },
   {
-    "iconUrl": "https://anizm.net/upload/assets/favicon.ico",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22672,
+    "fileSize": 31767,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -214,16 +214,16 @@
     "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23444,
+    "fileSize": 33440,
     "status": 1,
     "language": "tr",
     "authors": [
-      "kerimmkirac"
+      "kraptor"
     ],
     "tvTypes": [
       "Cartoon"
     ],
-    "version": 1,
+    "version": 4,
     "internalName": "CizgiveDizi",
     "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/CizgiveDizi.cs3",
@@ -717,10 +717,10 @@
     "name": "FullHDFilmizlesene"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 26434,
+    "fileSize": 27952,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -730,7 +730,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 8,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi.cs3",
