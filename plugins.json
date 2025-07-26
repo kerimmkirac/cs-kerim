@@ -392,7 +392,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimag.pro&size=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29595,
+    "fileSize": 29587,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -401,7 +401,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMag.cs3",
@@ -450,7 +450,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 39529,
+    "fileSize": 39533,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -459,7 +459,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPalOrijinal.cs3",
@@ -499,7 +499,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYou.cs3",
