@@ -173,6 +173,25 @@
     "name": "AsyaKing"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 21767,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Documentary"
+    ],
+    "version": 1,
+    "internalName": "BelgeselX",
+    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/BelgeselX.cs3",
+    "name": "BelgeselX"
+  },
+  {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -450,7 +469,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 39533,
+    "fileSize": 39529,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -459,7 +478,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPalOrijinal.cs3",
@@ -604,7 +623,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21937,
+    "fileSize": 22642,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -613,7 +632,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 6,
+    "version": 10,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmMakinesi.cs3",
@@ -700,7 +719,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 28848,
+    "fileSize": 29732,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -819,7 +838,7 @@
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20696,
+    "fileSize": 20695,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -830,7 +849,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RecTV.cs3",
