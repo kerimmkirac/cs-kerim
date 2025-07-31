@@ -407,6 +407,25 @@
     "name": "DiziPalOrijinal"
   },
   {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 16782,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Dizist",
+    "description": "Yabancı Dizi izle - Dizist",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizist.cs3",
+    "name": "Dizist"
+  },
+  {
     "iconUrl": "https://www.diziyo.de/wp-content/uploads/2019/11/favicon-150x150.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -485,10 +504,10 @@
     "name": "FilmBip"
   },
   {
-    "iconUrl": "https://filmekseni.net/favicon.ico",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18676,
+    "fileSize": 18962,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -545,7 +564,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23058,
+    "fileSize": 17252,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -554,7 +573,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 13,
+    "version": 1,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmMakinesi.cs3",
@@ -678,6 +697,25 @@
     "name": "HDFilmSitesi"
   },
   {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 14707,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "HintDizi",
+    "description": "En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HintDizi.cs3",
+    "name": "HintDizi"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -762,7 +800,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 36041,
+    "fileSize": 38346,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -771,7 +809,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 5,
+    "version": 1,
     "internalName": "RoketDizi",
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RoketDizi.cs3",
@@ -781,12 +819,12 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=seicode.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19842,
+    "fileSize": 20473,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac",
-      "kraptor"
+      "kerimmkirac"
     ],
     "tvTypes": [
       "Anime",
@@ -797,25 +835,6 @@
     "description": "Seicode ile en yeni animeler keşfedin!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SeiCode.cs3",
     "name": "SeiCode"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 28865,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie, TvSeries"
-    ],
-    "version": 1,
-    "internalName": "SelcukFlix",
-    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SelcukFlix.cs3",
-    "name": "SelcukFlix"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
@@ -857,17 +876,18 @@
     "name": "SezonlukDizi"
   },
   {
-    "iconUrl": "https://sinefy3.com/assets/img/sinefy/icon-144x144.png",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19509,
+    "fileSize": 20278,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "Movie, TvSeries"
+      "Movie",
+      "TvSeries"
     ],
     "version": 1,
     "internalName": "Sinefy",
@@ -879,7 +899,7 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14210,
+    "fileSize": 14291,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -952,25 +972,6 @@
     "name": "TLC"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15326,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 2,
-    "internalName": "TurkAnime",
-    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TurkAnime.cs3",
-    "name": "TurkAnime"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -988,25 +989,6 @@
     "description": "TV8'in eğlenceli programları, yarışmaları ve dizileri ile keyifle TV izle. Survivor, O Ses Türkiye, Jet Sosyete, Kızım, Yemekteyiz ve Masterchef için TV8 izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tv8.cs3",
     "name": "Tv8"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 26717,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "TvDiziler",
-    "description": "Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TvDiziler.cs3",
-    "name": "TvDiziler"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm9.com&size=128",
@@ -1027,6 +1009,26 @@
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/UgurFilm.cs3",
     "name": "UgurFilm"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unutulmazfilmler4.com/&size=64",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 39943,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "UnutulmazFilmler",
+    "description": "Yıllar geçse bile izledikten sonraki etkisi hala süren o unutulmaz filmleri sizler için derliyoruz. Altyazılı film izle. Sadece En iyi filmler.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/UnutulmazFilmler.cs3",
+    "name": "UnutulmazFilmler"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
