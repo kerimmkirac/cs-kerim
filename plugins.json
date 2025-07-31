@@ -136,8 +136,8 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24629,
-    "status": 0,
+    "fileSize": 24630,
+    "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
@@ -145,7 +145,7 @@
     "tvTypes": [
       "Cartoon"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "CizgiMax",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/CizgiMax.cs3",
@@ -1149,7 +1149,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 38922,
+    "fileSize": 39017,
     "status": 1,
     "language": "tr",
     "authors": [
