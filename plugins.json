@@ -3,7 +3,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 25868,
+    "fileSize": 36389,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 4,
+    "version": 1,
     "internalName": "4KFilmIzleme",
     "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzleme.cs3",
@@ -22,7 +22,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 11030,
+    "fileSize": 11224,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -31,7 +31,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": 1,
     "internalName": "4KFilmIzlesene",
     "description": "En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzlesene.cs3",
@@ -41,111 +41,33 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 35176,
+    "fileSize": 36297,
     "status": 1,
     "language": "tr",
     "authors": [
-      "kraptor123"
+      "kerimmkirac"
     ],
     "tvTypes": [
       "Anime"
     ],
-    "version": 5,
+    "version": 1,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AnimeciX.cs3",
     "name": "AnimeciX"
   },
   {
-    "iconUrl": "https://www.animeizlesene.com/public/assets/img/favicon-32x32.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24102,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime",
-      "Ova"
-    ],
-    "version": 3,
-    "internalName": "AnimeIzlesene",
-    "description": "Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AnimeIzlesene.cs3",
-    "name": "AnimeIzlesene"
-  },
-  {
-    "iconUrl": "https://animex.tr/wp-content/uploads/2024/06/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19427,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 2,
-    "internalName": "Animex",
-    "description": "Anime izle, Anime türkce altyazılı , birbirinden farklı ve güzel en güncel animeleri keyifle seyredebileceğiniz Animex.com.tr anime severlerin en popüler türkçe anime izleme sitesidir.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Animex.cs3",
-    "name": "Animex"
-  },
-  {
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 31767,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 3,
-    "internalName": "Anizm",
-    "description": "Türkçe Altyazılı Anime İzle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Anizm.cs3",
-    "name": "Anizm"
-  },
-  {
-    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14350,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 2,
-    "internalName": "AsyaAnimeleri",
-    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaAnimeleri.cs3",
-    "name": "AsyaAnimeleri"
-  },
-  {
     "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 13436,
+    "fileSize": 13280,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "TvSeries"
+      "AsianDrama"
     ],
     "version": 1,
     "internalName": "AsyaFanatiklerim",
@@ -195,7 +117,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 12987,
+    "fileSize": 11373,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -329,10 +251,10 @@
     "name": "Dizican"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizifun2.com&sz=%size%",
+    "iconUrl": "https://dizifun2.com/images/data/favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 30993,
+    "fileSize": 27879,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -342,9 +264,9 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": 1,
     "internalName": "DiziFun",
-    "description": "Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
+    "description": "Her Dizi Bir Macera, Her An Bir Keşif!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziFun.cs3",
     "name": "DiziFun"
   },
@@ -352,7 +274,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17817,
+    "fileSize": 18065,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -362,7 +284,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziGom.cs3",
@@ -392,7 +314,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 46328,
+    "fileSize": 46694,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -401,7 +323,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 9,
+    "version": 1,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizilla.cs3",
@@ -469,7 +391,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 39530,
+    "fileSize": 42801,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -478,7 +400,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 9,
+    "version": 1,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPalOrijinal.cs3",
@@ -676,25 +598,6 @@
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilm.cs3",
     "name": "FullHDFilm"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15199,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "FullHDFilmİzlede",
-    "description": "En güncel ve popüler filmleri Full HD kalitesinde, Türkçe altyazılı veya Türkçe dublaj seçenekleriyle izleyebileceğiniz tek adres! Sinema tutkunları için en özel film deneyimini yaşamak için fullhdfilmizlede.net",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmİzlede.cs3",
-    "name": "FullHDFilmİzlede"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
@@ -1257,6 +1160,24 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
     "name": "YerelDiziler",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AsyaAnimeleri",
+    "description": "AsyaAnimeleri için CloudStream eklentisi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AsyaAnimeleri.cs3",
+    "name": "AsyaAnimeleri",
+    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
