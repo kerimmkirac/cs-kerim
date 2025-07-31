@@ -392,7 +392,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 42255,
+    "fileSize": 46328,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -401,7 +401,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizilla.cs3",
@@ -623,7 +623,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23117,
+    "fileSize": 23058,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -632,7 +632,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmMakinesi.cs3",
@@ -719,7 +719,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 30073,
+    "fileSize": 29991,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -729,7 +729,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi.cs3",
@@ -815,10 +815,10 @@
     "name": "KultFilmler"
   },
   {
-    "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
+    "iconUrl": "https://net2025.cc/mobile/img/nf2/icon_x192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 42430,
+    "fileSize": 46839,
     "status": 1,
     "language": "en",
     "authors": [
