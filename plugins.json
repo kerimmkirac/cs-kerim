@@ -1088,6 +1088,26 @@
     "name": "UnutulmazFilmler"
   },
   {
+    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 23073,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Watch32",
+    "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
+    "name": "Watch32"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
