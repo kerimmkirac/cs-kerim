@@ -294,7 +294,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.pw&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29242,
+    "fileSize": 29340,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -304,7 +304,7 @@
       "AsianDrama",
       "Movie"
     ],
-    "version": 7,
+    "version": 10,
     "internalName": "DiziKorea",
     "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
