@@ -972,10 +972,33 @@
     "name": "Sinefy"
   },
   {
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 37041,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama",
+      "Cartoon"
+    ],
+    "version": 3,
+    "internalName": "SineWix",
+    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SineWix.cs3",
+    "name": "SineWix"
+  },
+  {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14291,
+    "fileSize": 14293,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -984,7 +1007,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Sinezy",
     "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinezy.cs3",
@@ -1221,25 +1244,6 @@
     "description": "Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YeniWatch.cs3",
     "name": "YeniWatch"
-  },
-  {
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24029,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TV"
-    ],
-    "version": 1,
-    "internalName": "Sinewix",
-    "description": "Sinewix diziler için hızlı ve stabil bir çözümdür.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/SineWix.cs3",
-    "name": "Sinewix"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
