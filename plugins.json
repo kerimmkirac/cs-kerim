@@ -583,7 +583,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17252,
+    "fileSize": 17071,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -660,7 +660,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29991,
+    "fileSize": 27320,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -670,7 +670,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 12,
+    "version": 1,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi.cs3",
