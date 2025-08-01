@@ -677,6 +677,25 @@
     "name": "HDFilmCehennemi"
   },
   {
+    "iconUrl": "https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 15731,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "HdFilmCehennemi2",
+    "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HdFilmCehennemi2.cs3",
+    "name": "HdFilmCehennemi2"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -733,6 +752,25 @@
     "description": "En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HintDizi.cs3",
     "name": "HintDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "fileSize": 21179,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "JetFilmizle",
+    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/JetFilmizle.cs3",
+    "name": "JetFilmizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
@@ -1072,7 +1110,7 @@
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23073,
+    "fileSize": 23214,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1082,7 +1120,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Watch32",
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
