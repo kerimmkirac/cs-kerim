@@ -1133,7 +1133,7 @@
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23214,
+    "fileSize": 23215,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1143,7 +1143,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "Watch32",
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
