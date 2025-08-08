@@ -1043,20 +1043,20 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 13153,
+    "fileSize": 14025,
     "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
-      "Movie"
+      "TvSeries"
     ],
     "version": 1,
-    "internalName": "TLC",
-    "description": "TLC",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/TLC.cs3",
-    "name": "TLC"
+    "internalName": "Tlc",
+    "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tlc.cs3",
+    "name": "Tlc"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
