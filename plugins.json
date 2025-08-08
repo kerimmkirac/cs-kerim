@@ -602,20 +602,21 @@
     "name": "FilmModu"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18149,
+    "fileSize": 24316,
     "status": 1,
     "language": "tr",
     "authors": [
+      "kraptor",
       "kerimmkirac"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 22,
     "internalName": "FullHDFilm",
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilm.cs3",
@@ -900,17 +901,18 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22897,
+    "fileSize": 26867,
     "status": 1,
     "language": "tr",
     "authors": [
+      "kraptor",
       "kerimmkirac"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 22,
     "internalName": "SetFilmIzle",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SetFilmIzle.cs3",
