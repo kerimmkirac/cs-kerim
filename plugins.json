@@ -197,16 +197,17 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24018,
+    "fileSize": 24181,
     "status": 1,
     "language": "tr",
     "authors": [
+      "kraptor",
       "kerimmkirac"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziBox.cs3",
