@@ -919,16 +919,17 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18745,
+    "fileSize": 21684,
     "status": 1,
     "language": "tr",
     "authors": [
+      "kraptor",
       "kerimmkirac"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": 1,
     "internalName": "SezonlukDizi",
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SezonlukDizi.cs3",
