@@ -472,7 +472,7 @@
     "iconUrl": "https://www.dmax.com.tr/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 13243,
+    "fileSize": 14095,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -482,10 +482,10 @@
       "TvSeries"
     ],
     "version": 1,
-    "internalName": "DMax",
-    "description": "DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DMax.cs3",
-    "name": "DMax"
+    "internalName": "Dmax",
+    "description": "Dmax dizi ve programlarını takip etmek için ziyaret edin. Dmax dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dmax.cs3",
+    "name": "Dmax"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmbip.com/&sz=%size%",
@@ -1272,42 +1272,6 @@
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
     "name": "YerelDiziler",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "AsyaAnimeleri",
-    "description": "AsyaAnimeleri için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AsyaAnimeleri.cs3",
-    "name": "AsyaAnimeleri",
-    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png"
-  },
-  {
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "AsyaFilmIzlesene",
-    "description": "AsyaFilmIzlesene için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/AsyaFilmIzlesene.cs3",
-    "name": "AsyaFilmIzlesene",
-    "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
