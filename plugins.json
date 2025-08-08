@@ -57,25 +57,6 @@
     "name": "AnimeciX"
   },
   {
-    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 13280,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "AsyaFanatiklerim",
-    "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaFanatiklerim.cs3",
-    "name": "AsyaFanatiklerim"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -308,26 +289,6 @@
     "description": "Sadece Dizi izlemenin Tek Adresin yerli yabancı dizi izlemek için dizimore.com",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMore.cs3",
     "name": "DiziMore"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17238,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "version": 9,
-    "internalName": "DiziPal",
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
-    "name": "DiziPal"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
