@@ -1321,6 +1321,25 @@
       "kerimmkirac"
     ],
     "tvTypes": [
+      "AnimeMovie",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "Anizium",
+    "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Anizium.cs3",
+    "name": "Anizium",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=anizium.co&sz=%size%"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
