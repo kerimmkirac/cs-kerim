@@ -237,7 +237,7 @@
     "iconUrl": "https://dizifun2.com/images/data/favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 27879,
+    "fileSize": 27878,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -247,7 +247,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziFun",
     "description": "Her Dizi Bir Macera, Her An Bir Keşif!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziFun.cs3",
@@ -454,7 +454,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14215,
+    "fileSize": 14214,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -463,7 +463,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYou.cs3",
@@ -649,7 +649,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22826,
+    "fileSize": 22825,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -658,7 +658,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "HDFilmSitesi",
     "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmSitesi.cs3",
@@ -708,7 +708,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21179,
+    "fileSize": 21186,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -717,7 +717,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/JetFilmizle.cs3",
@@ -1185,7 +1185,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 39017,
+    "fileSize": 39016,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1194,7 +1194,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "YabanciDizi",
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YabanciDizi.cs3",
