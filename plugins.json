@@ -1184,7 +1184,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 34182,
+    "fileSize": 34596,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1194,7 +1194,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "Xprime",
     "description": "Watch XPrime films TV programmes online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Xprime.cs3",
