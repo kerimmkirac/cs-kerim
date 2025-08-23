@@ -566,26 +566,6 @@
     "name": "FilmEkseni"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23511,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "FilmMakinesi",
-    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmMakinesi.cs3",
-    "name": "FilmMakinesi"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -643,26 +623,6 @@
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
     "name": "FullHDFilmizlesene"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29410,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "HDFilmCehennemi",
-    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmCehennemi.cs3",
-    "name": "HDFilmCehennemi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
