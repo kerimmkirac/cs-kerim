@@ -1265,6 +1265,44 @@
       "kerimmkirac"
     ],
     "tvTypes": [
+      "Tv",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "FilmMakinesi",
+    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/FilmMakinesi.cs3",
+    "name": "FilmMakinesi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Tv",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "HDFilmCehennemi",
+    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/HDFilmCehennemi.cs3",
+    "name": "HDFilmCehennemi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
