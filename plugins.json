@@ -474,7 +474,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14214,
+    "fileSize": 14213,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -483,7 +483,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYou.cs3",
@@ -765,7 +765,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 19500,
+    "fileSize": 19499,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -775,7 +775,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "KultFilmler",
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KultFilmler.cs3",
