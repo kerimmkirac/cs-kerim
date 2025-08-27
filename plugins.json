@@ -785,7 +785,7 @@
     "iconUrl": "https://net2025.cc/mobile/img/nf2/icon_x192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 46839,
+    "fileSize": 47104,
     "status": 1,
     "language": "en",
     "authors": [
@@ -795,7 +795,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "NetflixMirror",
     "description": "Netflix, PrimeVideo, Disney+",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/NetflixMirror.cs3",
