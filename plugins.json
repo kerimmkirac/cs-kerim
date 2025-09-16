@@ -318,7 +318,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 49279,
+    "fileSize": 49288,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -327,7 +327,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizilla.cs3",
