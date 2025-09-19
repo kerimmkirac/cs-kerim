@@ -453,7 +453,7 @@
     "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 40338,
+    "fileSize": 40336,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -464,7 +464,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "DiziYo",
     "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYo.cs3",
