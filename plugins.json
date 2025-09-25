@@ -746,7 +746,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 12202,
+    "fileSize": 12203,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -755,7 +755,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "KoreanTurk",
     "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KoreanTurk.cs3",
