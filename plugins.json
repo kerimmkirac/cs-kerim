@@ -1082,10 +1082,10 @@
     "name": "UnutulmazFilmler"
   },
   {
-    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+    "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23215,
+    "fileSize": 22992,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1095,9 +1095,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "Watch32",
-    "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+    "description": "Watch Your Favorite Movies TV Shows Online - Streaming For Free. With Movies TV Shows Full HD. Find Your Movies Watch NOW!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
     "name": "Watch32"
   },
