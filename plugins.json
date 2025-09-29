@@ -648,7 +648,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 22824,
+    "fileSize": 22822,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -657,7 +657,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "HDFilmSitesi",
     "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmSitesi.cs3",
