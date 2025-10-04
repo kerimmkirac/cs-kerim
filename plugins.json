@@ -786,7 +786,7 @@
     "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20842,
+    "fileSize": 20841,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -797,7 +797,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RecTV.cs3",
