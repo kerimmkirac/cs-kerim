@@ -404,7 +404,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
