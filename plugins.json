@@ -1047,7 +1047,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29191,
+    "fileSize": 29271,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1059,7 +1059,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "WebDramaTurkey",
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebDramaTurkey.cs3",
