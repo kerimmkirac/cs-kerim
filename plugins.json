@@ -788,7 +788,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 51414,
+    "fileSize": 52981,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -798,7 +798,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "SelcukFlix",
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SelcukFlix.cs3",
