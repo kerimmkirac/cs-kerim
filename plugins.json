@@ -3,7 +3,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 38516,
+    "fileSize": 38738,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "4KFilmIzleme",
     "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzleme.cs3",
@@ -318,7 +318,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 49331,
+    "fileSize": 49480,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -327,7 +327,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizilla.cs3",
@@ -394,7 +394,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17585,
+    "fileSize": 17589,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -404,7 +404,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
@@ -414,7 +414,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 44951,
+    "fileSize": 45134,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -424,7 +424,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPalOrijinal.cs3",
@@ -473,7 +473,7 @@
     "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 40334,
+    "fileSize": 40523,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -484,7 +484,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "DiziYo",
     "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYo.cs3",
@@ -689,7 +689,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21186,
+    "fileSize": 21183,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -698,7 +698,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/JetFilmizle.cs3",
@@ -748,7 +748,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 40492,
+    "fileSize": 40680,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -757,7 +757,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "RoketDizi",
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RoketDizi.cs3",
@@ -788,7 +788,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 52981,
+    "fileSize": 53161,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -798,7 +798,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "SelcukFlix",
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SelcukFlix.cs3",
@@ -968,7 +968,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18477,
+    "fileSize": 18496,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -977,7 +977,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Tv8",
     "description": "TV8'in eğlenceli programları, yarışmaları ve dizileri ile keyifle TV izle. Survivor, O Ses Türkiye, Jet Sosyete, Kızım, Yemekteyiz ve Masterchef için TV8 izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tv8.cs3",
@@ -1086,7 +1086,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 34596,
+    "fileSize": 34553,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1096,7 +1096,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "Xprime",
     "description": "Watch XPrime films TV programmes online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Xprime.cs3",
