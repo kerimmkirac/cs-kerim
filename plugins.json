@@ -77,25 +77,6 @@
     "name": "AsyaFanatiklerim"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15574,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 2,
-    "internalName": "AsyaKing",
-    "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaKing.cs3",
-    "name": "AsyaKing"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -196,7 +177,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 40454,
+    "fileSize": 40573,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -207,7 +188,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "DiziAsya",
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziAsya.cs3",
@@ -346,7 +327,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMag.cs3",
@@ -356,7 +337,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 31136,
+    "fileSize": 31134,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -365,7 +346,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 19,
+    "version": 21,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMom.cs3",
@@ -394,7 +375,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17589,
+    "fileSize": 17581,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -404,7 +385,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
@@ -570,7 +551,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14737,
+    "fileSize": 14786,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -579,7 +560,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": 7,
     "internalName": "FilmModu",
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
@@ -610,7 +591,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 31049,
+    "fileSize": 31096,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -619,7 +600,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": 7,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
@@ -629,7 +610,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 27454,
+    "fileSize": 27508,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -639,7 +620,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 6,
     "internalName": "HDFilmIzle",
     "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
@@ -911,7 +892,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 18279,
+    "fileSize": 18330,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -920,7 +901,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "SuperFilmGeldi",
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SuperFilmGeldi.cs3",
@@ -930,7 +911,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 11848,
+    "fileSize": 11889,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -939,7 +920,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 4,
     "internalName": "Tafdi",
     "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tafdi.cs3",
@@ -1006,7 +987,7 @@
     "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 21773,
+    "fileSize": 21642,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1016,7 +997,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "Watch32",
     "description": "Watch Your Favorite Movies TV Shows Online - Streaming For Free. With Movies TV Shows Full HD. Find Your Movies Watch NOW!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
@@ -1048,7 +1029,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20881,
+    "fileSize": 20912,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1057,7 +1038,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 8,
+    "version": 10,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebteIzle.cs3",
@@ -1067,7 +1048,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15384,
+    "fileSize": 15439,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1076,7 +1057,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "WFilmİzle",
     "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WFilmİzle.cs3",
