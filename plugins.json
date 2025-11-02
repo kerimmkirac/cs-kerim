@@ -1113,7 +1113,7 @@
       "Movie",
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/RecTV.cs3",
