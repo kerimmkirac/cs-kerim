@@ -667,26 +667,6 @@
     "name": "JetFilmizle"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 24943,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "KickTR",
-    "description": "Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KickTR.cs3",
-    "name": "KickTR"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
