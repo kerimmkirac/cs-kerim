@@ -376,7 +376,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 45134,
+    "fileSize": 45135,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -386,7 +386,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPalOrijinal.cs3",
