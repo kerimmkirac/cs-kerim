@@ -494,7 +494,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20300,
+    "fileSize": 20297,
     "status": 1,
     "language": "en",
     "authors": [
@@ -503,7 +503,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Dramacool",
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
@@ -1132,7 +1132,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/HDFilmCehennemi.cs3",
