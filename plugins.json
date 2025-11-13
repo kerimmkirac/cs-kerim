@@ -3,7 +3,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 38738,
+    "fileSize": 44391,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "4KFilmIzleme",
     "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzleme.cs3",
@@ -80,7 +80,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 51422,
+    "fileSize": 53342,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -90,7 +90,7 @@
       "AsianDrama",
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "AsyaWatch",
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaWatch.cs3",
@@ -260,7 +260,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.pw&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29387,
+    "fileSize": 26977,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -270,7 +270,7 @@
       "AsianDrama",
       "Movie"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "DiziKorea",
     "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
