@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import org.jsoup.nodes.Element
 
 class JetFilmizle : MainAPI() {
-    override var mainUrl = "https://jetfilmizle.website"
+    override var mainUrl = "https://jetfilmizle.website/navaronun-toplari-the-guns-of-navarone-izle.html"
     override var name = "JetFilmizle"
     override val hasMainPage = true
     override var lang = "tr"
