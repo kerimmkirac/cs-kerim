@@ -14,7 +14,7 @@ import okhttp3.Response
 import org.jsoup.Jsoup
 
 class DiziKorea : MainAPI() {
-    override var mainUrl              = "https://dizikorea1.com"
+    override var mainUrl              = "https://dizikorea1.com:443/login_up.php"
     override var name                 = "DiziKorea"
     override val hasMainPage          = true
     override var lang                 = "tr"
