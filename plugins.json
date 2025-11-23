@@ -373,26 +373,6 @@
     "name": "DiziPal"
   },
   {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 45133,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac",
-      "kraptor"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 33,
-    "internalName": "DiziPalOrijinal",
-    "description": "DiziPal Orijinal.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPalOrijinal.cs3",
-    "name": "DiziPalOrijinal"
-  },
-  {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -430,27 +410,6 @@
     "description": "Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziWatch.cs3",
     "name": "DiziWatch"
-  },
-  {
-    "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 50363,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime"
-    ],
-    "version": 10,
-    "internalName": "DiziYo",
-    "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYo.cs3",
-    "name": "DiziYo"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
@@ -704,27 +663,6 @@
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RoketDizi.cs3",
     "name": "RoketDizi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=seicode.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20473,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac",
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime",
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "SeiCode",
-    "description": "Seicode ile en yeni animeler keşfedin!",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SeiCode.cs3",
-    "name": "SeiCode"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
