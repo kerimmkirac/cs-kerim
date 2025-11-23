@@ -98,6 +98,50 @@ jobs:
             echo "FilmMakinesi zaten plugins.json'da mevcut, eklenmedi."
           fi
 
+      - name: Dizipalorj Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "DiziPalOrijinal")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries","Movie"],
+              "version": 34,
+              "internalName": "DiziPalOrijinal",
+              "description": "Dizipal Orjinal.",
+              "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziPalOrijinal.cs3",
+              "name": "DiziPalOrijinal",
+              "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "DiziPalOrijinal zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: DiziYo Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "DiziYo")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries","Movie"],
+              "version": 11,
+              "internalName": "DiziYo",
+              "description": "DiziYo.",
+              "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziYo.cs3",
+              "name": "DiziYo",
+              "iconUrl": "https://i.imgur.com/zQYsL6Z.png"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "DiziYo zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
 
 
 
