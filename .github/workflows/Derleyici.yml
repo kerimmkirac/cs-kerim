@@ -32,7 +32,7 @@ jobs:
           path: "builds"
 
       - name: Eski Derlemeleri Temizle 
-        run: find $GITHUB_WORKSPACE/builds -name '*.cs3' ! -name 'AsyaAnimeleri.cs3' ! -name 'Anizium.cs3' ! -name 'RecTV.cs3' ! -name 'FilmMakinesi.cs3' ! -name 'DiziPalOrijinal.cs3' ! -name 'DiziYo.cs3'  ! -name 'HDFilmCehennemi.cs3' ! -name 'Kanal7.cs3' ! -name 'Puhu.cs3'     ! -name 'YerelDiziler.cs3'   -delete
+        run: find $GITHUB_WORKSPACE/builds -name '*.cs3' ! -name 'AsyaAnimeleri.cs3' ! -name 'InatBox.cs3' ! -name 'Anizium.cs3' ! -name 'RecTV.cs3' ! -name 'FilmMakinesi.cs3' ! -name 'DiziPalOrijinal.cs3' ! -name 'DiziYo.cs3'  ! -name 'HDFilmCehennemi.cs3' ! -name 'Kanal7.cs3' ! -name 'Puhu.cs3'     ! -name 'YerelDiziler.cs3'   -delete
 
       - name: JDK 17 Ayarla
         uses: actions/setup-java@v4.6.0
@@ -118,6 +118,28 @@ jobs:
             }]' > plugins-new.json && mv plugins-new.json plugins.json
           else
             echo "DiziPalOrijinal zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: InatBox Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "InatBox")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries","Movie", "Live"],
+              "version": 10,
+              "internalName": "InatBox",
+              "description": "InatBox.",
+              "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/InatBox.cs3",
+              "name": "InatBox",
+              "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "InatBox zaten plugins.json'da mevcut, eklenmedi."
           fi
 
       - name: DiziYo Eklentisini plugins.json'a Elle Ekle
