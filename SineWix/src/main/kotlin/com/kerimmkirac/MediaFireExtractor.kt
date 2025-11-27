@@ -20,14 +20,13 @@ open class MediaFireExtractor : ExtractorApi() {
         callback: (ExtractorLink) -> Unit
     ) {
         val videoReq = app.get(url).document
-        val videolink = videoReq.selectFirst("a.input.popsok")?.attr("data-scrambled-url").toString()
-        val video     = base64Decode(videolink)
-        Log.d("kerim","video = $video")
+        val videolink = videoReq.selectFirst("a#downloadButton")?.attr("href").toString()
+        Log.d("kraptor_$name","video = $videolink")
         callback.invoke(
             newExtractorLink(
             "MediaFire",
             name = "MediaFire",
-            url = video,
+            url = videolink,
             type = INFER_TYPE,
             {
 
