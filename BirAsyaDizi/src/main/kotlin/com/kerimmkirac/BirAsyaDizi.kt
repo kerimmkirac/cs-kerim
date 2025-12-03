@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
 class BirAsyaDizi : MainAPI() {
-    override var mainUrl              = "https://www.birasyadizi.cc"
+    override var mainUrl              = "https://www.birasyadizi.cv"
     override var name                 = "BirAsyaDizi"
     override val hasMainPage          = true
     override var lang                 = "tr"
