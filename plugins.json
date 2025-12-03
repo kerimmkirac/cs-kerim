@@ -260,7 +260,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.pw&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 26978,
+    "fileSize": 26979,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -270,7 +270,7 @@
       "AsianDrama",
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziKorea",
     "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
@@ -453,7 +453,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20296,
+    "fileSize": 20304,
     "status": 1,
     "language": "en",
     "authors": [
@@ -462,7 +462,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "Dramacool",
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
@@ -491,7 +491,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14017,
+    "fileSize": 14016,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -500,7 +500,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "FilmModu",
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
@@ -1011,7 +1011,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/FilmMakinesi.cs3",
