@@ -100,7 +100,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 11368,
+    "fileSize": 11367,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -109,7 +109,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "BirAsyaDizi",
     "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/BirAsyaDizi.cs3",
