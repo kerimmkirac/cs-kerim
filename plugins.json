@@ -158,7 +158,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 40573,
+    "fileSize": 40772,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -169,7 +169,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "DiziAsya",
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziAsya.cs3",
@@ -356,7 +356,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17585,
+    "fileSize": 17584,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -366,7 +366,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 20,
+    "version": 21,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
@@ -415,7 +415,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 14203,
+    "fileSize": 14207,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -424,7 +424,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "DiziYou",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYou.cs3",
@@ -453,7 +453,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20298,
+    "fileSize": 20515,
     "status": 1,
     "language": "en",
     "authors": [
@@ -462,7 +462,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "Dramacool",
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
@@ -688,7 +688,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi8.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 29052,
+    "fileSize": 29702,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -698,7 +698,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "SezonlukDizi",
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SezonlukDizi.cs3",
@@ -760,7 +760,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "Sinezy",
     "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinezy.cs3",
@@ -1011,10 +1011,10 @@
       "Tv",
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/FilmMakinesi.cs3",
+    "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
     "name": "FilmMakinesi",
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%"
   },
@@ -1030,10 +1030,10 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 34,
+    "version": 35,
     "internalName": "DiziPalOrijinal",
     "description": "Dizipal Orjinal.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziPalOrijinal.cs3",
+    "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziPalOrijinal.cs3",
     "name": "DiziPalOrijinal",
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128"
   },
@@ -1050,7 +1050,7 @@
       "Movie",
       "Live"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "InatBox",
     "description": "InatBox.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
@@ -1069,10 +1069,10 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "DiziYo",
     "description": "DiziYo.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziYo.cs3",
+    "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
     "name": "DiziYo",
     "iconUrl": "https://i.imgur.com/zQYsL6Z.png"
   },
@@ -1089,10 +1089,10 @@
       "Movie",
       "Live"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/RecTV.cs3",
+    "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/RecTV.cs3",
     "name": "RecTV",
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128"
   },
@@ -1108,10 +1108,10 @@
       "Tv",
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/HDFilmCehennemi.cs3",
+    "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi",
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%"
   },
