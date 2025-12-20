@@ -75,14 +75,15 @@ open class VidStack : ExtractorApi() {
             ?.replace("\\/", "/") ?: ""
 
         callback.invoke(
-            ExtractorLink(
+            newExtractorLink(
                 this.name,
                 this.name,
                 m3u8,
-                url,
-                Qualities.P1080.value,
-                type = ExtractorLinkType.M3U8,
-            )
+                type = ExtractorLinkType.M3U8
+            ) {
+                this.referer = url
+                this.quality = Qualities.P1080.value
+            }
         )
     }
 
