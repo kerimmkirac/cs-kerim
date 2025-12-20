@@ -7,14 +7,13 @@ import com.lagradost.cloudstream3.plugins.BasePlugin
 class DiziAsyaPlugin: BasePlugin() {
     override fun load() {
         registerMainAPI(DiziAsya())
-        registerExtractorAPI(VidStack())
+        registerExtractorAPI(VidStackExt())
         registerExtractorAPI(DiziAsyauns())
         registerExtractorAPI(DiziAsyaP2P())
         registerExtractorAPI(DiziAsyarpmplay())
         registerExtractorAPI(LuluuExtractor())
         registerExtractorAPI(VidHidePro())
         registerExtractorAPI(movearnpre())
-        
         registerExtractorAPI(mivalyo())
     }
 }

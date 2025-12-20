@@ -13,30 +13,30 @@ import javax.crypto.Cipher
 import javax.crypto.spec.IvParameterSpec
 import javax.crypto.spec.SecretKeySpec
 
-class Server1uns : VidStack() {
+class Server1uns : VidStackExt() {
     override var name = "Vidstack"
     override var mainUrl = "https://server1.uns.bio"
     override var requiresReferer = true
 }
-class DiziAsyauns : VidStack() {
+class DiziAsyauns : VidStackExt() {
     override var name = "DiziAsya VidStack"
     override var mainUrl = "https://diziasya.uns.bio"
     override var requiresReferer = true
 }
 
-class DiziAsyaP2P : VidStack() {
+class DiziAsyaP2P : VidStackExt() {
     override var name = "DiziAsya P2P"
     override var mainUrl = "https://diziasya.p2pplay.pro"
     override var requiresReferer = true
 }
-class DiziAsyarpmplay : VidStack() {
+class DiziAsyarpmplay : VidStackExt() {
     override var name = "DiziAsya rpmplay"
     override var mainUrl = "https://diziasya.rpmplay.xyz"
     override var requiresReferer = true
 }
 
 
-open class VidStack : ExtractorApi() {
+open class VidStackExt : ExtractorApi() {
     override var name = "Vidstack"
     override var mainUrl = "https://vidstack.io"
     override val requiresReferer = true
@@ -70,14 +70,15 @@ open class VidStack : ExtractorApi() {
             ?.replace("\\/", "/") ?: ""
 
         callback.invoke(
-            ExtractorLink(
+            newExtractorLink(
                 this.name,
                 this.name,
                 m3u8,
-                url,
-                Qualities.P1080.value,
-                type = ExtractorLinkType.M3U8,
-            )
+                type = ExtractorLinkType.M3U8
+            ) {
+                this.referer = url
+                this.quality = Qualities.P1080.value
+            }
         )
     }
 
