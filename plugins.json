@@ -19,25 +19,6 @@
     "name": "4KFilmIzleme"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 11224,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "4KFilmIzlesene",
-    "description": "En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzlesene.cs3",
-    "name": "4KFilmIzlesene"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -97,25 +78,6 @@
     "name": "AsyaWatch"
   },
   {
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 11370,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 5,
-    "internalName": "BirAsyaDizi",
-    "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/BirAsyaDizi.cs3",
-    "name": "BirAsyaDizi"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -133,26 +95,6 @@
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/CizgiMax.cs3",
     "name": "CizgiMax"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 16143,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 2,
-    "internalName": "DiziAsia",
-    "description": "DiziAsia - Asya Dizileri İzle",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziAsia.cs3",
-    "name": "DiziAsia"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
@@ -194,46 +136,6 @@
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziBox.cs3",
     "name": "DiziBox"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15289,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 2,
-    "internalName": "Dizican",
-    "description": "DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizican.cs3",
-    "name": "Dizican"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifun6.com&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17940,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "DiziFun",
-    "description": "Her Dizi Bir Macera, Her An Bir Keşif!",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziFun.cs3",
-    "name": "DiziFun"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
@@ -567,25 +469,6 @@
     "name": "HDFilmIzle"
   },
   {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 15032,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "version": 3,
-    "internalName": "HintDizi",
-    "description": "En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HintDizi.cs3",
-    "name": "HintDizi"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -786,25 +669,6 @@
     "name": "SuperFilmGeldi"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 11889,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "Tafdi",
-    "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tafdi.cs3",
-    "name": "Tafdi"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -921,26 +785,6 @@
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebteIzle.cs3",
     "name": "WebteIzle"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 34553,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "Xprime",
-    "description": "Watch XPrime films TV programmes online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Xprime.cs3",
-    "name": "Xprime"
   },
   {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
