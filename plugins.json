@@ -1,24 +1,5 @@
 [
   {
-    "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 44391,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "4KFilmIzleme",
-    "description": "Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/4KFilmIzleme.cs3",
-    "name": "4KFilmIzleme"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
@@ -407,27 +388,6 @@
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
     "name": "FilmModu"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 23763,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor",
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 23,
-    "internalName": "FullHDFilm",
-    "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilm.cs3",
-    "name": "FullHDFilm"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
