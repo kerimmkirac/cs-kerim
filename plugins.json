@@ -239,7 +239,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 17585,
+    "fileSize": 17586,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -249,7 +249,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 22,
+    "version": 23,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
