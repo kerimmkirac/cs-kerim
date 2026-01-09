@@ -1,0 +1,8 @@
+{
+    "name": "aynen",
+    "description": "evetevet",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/refs/heads/master/mal.json"
+    ]
+}
