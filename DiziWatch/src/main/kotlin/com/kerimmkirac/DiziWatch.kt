@@ -17,7 +17,7 @@ import kotlinx.coroutines.sync.withLock
 import java.net.URLDecoder
 
 class DiziWatch : MainAPI() {
-    override var mainUrl              = "https://diziwatch.tv"
+    override var mainUrl              = "https://diziwatch.to"
     override var name                 = "DiziWatch"
     override val hasMainPage          = true
     override var lang                 = "tr"
