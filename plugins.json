@@ -317,7 +317,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "fileSize": 20518,
+    "fileSize": 20522,
     "status": 1,
     "language": "en",
     "authors": [
@@ -326,7 +326,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "Dramacool",
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
