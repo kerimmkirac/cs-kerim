@@ -22,14 +22,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/CizgiMax.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
       "kerimmkirac"
     ],
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "fileSize": 28394,
+    "fileSize": 28391,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -711,14 +711,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YeniWatch.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "YeniWatch",
     "internalName": "YeniWatch",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
-    "fileSize": 16727,
+    "fileSize": 16732,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -833,7 +833,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "DiziYo",
     "description": "DiziYo.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
