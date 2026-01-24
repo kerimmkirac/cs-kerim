@@ -277,7 +277,7 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Dramacool",
     "internalName": "Dramacool",
     "authors": [
@@ -334,20 +334,20 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 34991,
+    "fileSize": 25937,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.tv&sz=%size%",
     "apiVersion": 1
   },
   {
@@ -512,14 +512,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SineWix.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "SineWix",
     "internalName": "SineWix",
     "authors": [
       "kerimmkirac"
     ],
     "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-    "fileSize": 39114,
+    "fileSize": 39113,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
