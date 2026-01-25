@@ -199,14 +199,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "kerimmkirac"
     ],
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 19044,
+    "fileSize": 19047,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -277,14 +277,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Dramacool",
     "internalName": "Dramacool",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-    "fileSize": 22727,
+    "fileSize": 22715,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "en",
     "tvTypes": [
