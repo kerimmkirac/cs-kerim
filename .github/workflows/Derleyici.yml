@@ -154,7 +154,7 @@ jobs:
               "language": "tr",
               "authors": ["kerimmkirac"],
               "tvTypes": ["TvSeries","Movie", "Live"],
-              "version": 16,
+              "version": 17,
               "internalName": "InatBox",
               "description": "InatBox.",
               "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
