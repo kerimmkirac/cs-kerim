@@ -1,7 +1,7 @@
-version = 8
+version = 7
 
 cloudstream {
-    authors     = listOf("kraptor","kerimmkirac")
+    authors     = listOf("kerimmkirac")
     language    = "tr"
     description = "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler"
 
