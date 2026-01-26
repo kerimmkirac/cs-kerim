@@ -650,15 +650,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebDramaTurkey.cs3",
     "status": 1,
-    "version": 8,
+    "version": 7,
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "authors": [
-      "kraptor",
       "kerimmkirac"
     ],
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-    "fileSize": 31865,
+    "fileSize": 23927,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
