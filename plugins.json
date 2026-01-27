@@ -197,26 +197,6 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziPal.cs3",
-    "status": 1,
-    "version": 25,
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 19041,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
-    "apiVersion": 1
-  },
-  {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziWatch.cs3",
     "status": 1,
     "version": 2,
@@ -762,6 +742,25 @@
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
     "name": "FilmMakinesi",
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%"
+  },
+  {
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Tv",
+      "Movie"
+    ],
+    "version": 26,
+    "internalName": "DiziPal",
+    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziPal.cs3",
+    "name": "DiziPal",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128"
   },
   {
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
