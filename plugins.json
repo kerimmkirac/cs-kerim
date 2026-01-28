@@ -41,14 +41,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziAsya.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
-    "fileSize": 50287,
+    "fileSize": 46569,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
