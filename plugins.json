@@ -66,7 +66,6 @@
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
-      "kraptor",
       "kerimmkirac"
     ],
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
@@ -86,11 +85,10 @@
     "name": "DiziGom",
     "internalName": "DiziGom",
     "authors": [
-      "kraptor",
       "kerimmkirac"
     ],
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "fileSize": 23342,
+    "fileSize": 23351,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
     "language": "tr",
     "tvTypes": [
@@ -149,7 +147,7 @@
       "kerimmkirac"
     ],
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "fileSize": 34160,
+    "fileSize": 34100,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
     "language": "tr",
     "tvTypes": [
@@ -333,14 +331,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/HDFilmIzle.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "HDFilmIzle",
     "internalName": "HDFilmIzle",
     "authors": [
       "kerimmkirac"
     ],
     "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-    "fileSize": 29351,
+    "fileSize": 29326,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
     "language": "tr",
     "tvTypes": [
@@ -435,7 +433,6 @@
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
-      "kraptor",
       "kerimmkirac"
     ],
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
@@ -456,7 +453,6 @@
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
-      "kraptor",
       "kerimmkirac"
     ],
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
@@ -651,20 +647,20 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/WebteIzle.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 23646,
+    "fileSize": 40164,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
     "apiVersion": 1
   },
   {
@@ -674,7 +670,7 @@
     "name": "YabanciDizi",
     "internalName": "YabanciDizi",
     "authors": [
-      "kraptor"
+      "kerimmkirac"
     ],
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "fileSize": 31066,
@@ -717,7 +713,7 @@
     "tvTypes": [
       "Tv"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "YerelDiziler",
     "description": "YerelDiziler için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
@@ -736,7 +732,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
@@ -755,7 +751,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziPal.cs3",
@@ -773,7 +769,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/AnimeciX.cs3",
@@ -792,7 +788,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 35,
+    "version": 36,
     "internalName": "DiziPalOrijinal",
     "description": "Dizipal Orjinal.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziPalOrijinal.cs3",
@@ -812,7 +808,7 @@
       "Movie",
       "Live"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "InatBox",
     "description": "InatBox.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
@@ -831,7 +827,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "DiziYo",
     "description": "DiziYo.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
@@ -851,7 +847,7 @@
       "Movie",
       "Live"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/RecTV.cs3",
@@ -870,7 +866,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/HDFilmCehennemi.cs3",
@@ -888,7 +884,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Kanal7",
     "description": "Kanal7 için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Kanal7.cs3",
@@ -907,7 +903,7 @@
       "AnimeMovie",
       "Anime"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "Anizium",
     "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Anizium.cs3",
@@ -925,7 +921,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "Puhu",
     "description": "Puhu için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Puhu.cs3",
