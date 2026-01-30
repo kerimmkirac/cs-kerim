@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/AsyaWatch.cs3",
     "status": 1,
     "version": 3,
     "name": "AsyaWatch",
@@ -10,7 +10,7 @@
     ],
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
     "fileSize": 64448,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "AsianDrama",
@@ -20,7 +20,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/CizgiMax.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/CizgiMax.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiMax",
@@ -30,7 +30,7 @@
     ],
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "fileSize": 28826,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Cartoon"
@@ -39,7 +39,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziAsya.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziAsya.cs3",
     "status": 1,
     "version": 10,
     "name": "DiziAsya",
@@ -49,7 +49,7 @@
     ],
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
     "fileSize": 46569,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "AsianDrama",
@@ -60,7 +60,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziBox.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziBox.cs3",
     "status": 1,
     "version": 6,
     "name": "DiziBox",
@@ -70,7 +70,7 @@
     ],
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "fileSize": 24882,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -79,7 +79,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziGom.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziGom.cs3",
     "status": 1,
     "version": 7,
     "name": "DiziGom",
@@ -89,7 +89,7 @@
     ],
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "fileSize": 23351,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -99,7 +99,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziKorea.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziKorea.cs3",
     "status": 1,
     "version": 18,
     "name": "DiziKorea",
@@ -109,7 +109,7 @@
     ],
     "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "fileSize": 24645,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "AsianDrama",
@@ -119,7 +119,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Dizilla.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizilla.cs3",
     "status": 1,
     "version": 14,
     "name": "Dizilla",
@@ -129,7 +129,7 @@
     ],
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "fileSize": 58667,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -138,9 +138,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziMag.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMag.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "DiziMag",
     "internalName": "DiziMag",
     "authors": [
@@ -148,18 +148,18 @@
     ],
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "fileSize": 34100,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimag.pro&size=32",
+    "iconUrl": "https://dizimag.nl/uploads/logo/original/logo-5063.webp",
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMom.cs3",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
@@ -167,18 +167,18 @@
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "fileSize": 33401,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
+    "iconUrl": "https://www.dizimom.one/wp-content/uploads/2019/07/logo.png",
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziMore.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMore.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "DiziMore",
     "internalName": "DiziMore",
     "authors": [
@@ -186,16 +186,16 @@
     ],
     "description": "Sadece Dizi izlemenin Tek Adresin yerli yabancı dizi izlemek için dizimore.com",
     "fileSize": 19284,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimore.com&size=64",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimore.net&size=64",
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziWatch.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziWatch.cs3",
     "status": 1,
     "version": 2,
     "name": "DiziWatch",
@@ -205,7 +205,7 @@
     ],
     "description": "Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
     "fileSize": 24555,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries",
@@ -215,7 +215,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/DiziYou.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziYou.cs3",
     "status": 1,
     "version": 8,
     "name": "DiziYou",
@@ -225,7 +225,7 @@
     ],
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "fileSize": 15416,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -234,7 +234,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Dmax.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dmax.cs3",
     "status": 1,
     "version": 1,
     "name": "Dmax",
@@ -244,7 +244,7 @@
     ],
     "description": "Dmax dizi ve programlarını takip etmek için ziyaret edin. Dmax dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
     "fileSize": 15328,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -253,7 +253,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Dramacool.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
     "status": 1,
     "version": 17,
     "name": "Dramacool",
@@ -263,7 +263,7 @@
     ],
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
     "fileSize": 22715,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "en",
     "tvTypes": [
       "AsianDrama"
@@ -272,7 +272,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/FilmEkseni.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmEkseni.cs3",
     "status": 1,
     "version": 5,
     "name": "FilmEkseni",
@@ -282,7 +282,7 @@
     ],
     "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
     "fileSize": 19794,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -291,7 +291,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/FilmModu.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
     "status": 1,
     "version": 10,
     "name": "FilmModu",
@@ -301,7 +301,7 @@
     ],
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "fileSize": 16082,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -310,7 +310,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/FullHDFilmizlesene.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
     "status": 1,
     "version": 10,
     "name": "FullHDFilmizlesene",
@@ -320,7 +320,7 @@
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "fileSize": 59232,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -329,7 +329,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/HDFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
     "status": 1,
     "version": 8,
     "name": "HDFilmIzle",
@@ -339,7 +339,7 @@
     ],
     "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
     "fileSize": 29326,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -349,7 +349,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/JetFilmizle.cs3",
     "status": 1,
     "version": 5,
     "name": "JetFilmizle",
@@ -359,7 +359,7 @@
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "fileSize": 24137,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -368,7 +368,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/KultFilmler.cs3",
     "status": 1,
     "version": 5,
     "name": "KultFilmler",
@@ -378,7 +378,7 @@
     ],
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "fileSize": 24294,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -388,7 +388,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/RoketDizi.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/RoketDizi.cs3",
     "status": 1,
     "version": 4,
     "name": "RoketDizi",
@@ -398,7 +398,7 @@
     ],
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "fileSize": 58465,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -407,7 +407,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/SelcukFlix.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SelcukFlix.cs3",
     "status": 1,
     "version": 4,
     "name": "SelcukFlix",
@@ -417,7 +417,7 @@
     ],
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
     "fileSize": 62271,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -427,27 +427,27 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/SetFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SetFilmIzle.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 30474,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "fileSize": 30475,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/SezonlukDizi.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SezonlukDizi.cs3",
     "status": 1,
     "version": 7,
     "name": "SezonlukDizi",
@@ -457,7 +457,7 @@
     ],
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "fileSize": 32546,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -466,7 +466,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Sinefy.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinefy.cs3",
     "status": 1,
     "version": 2,
     "name": "Sinefy",
@@ -476,7 +476,7 @@
     ],
     "description": "Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
     "fileSize": 20749,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -486,7 +486,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/SineWix.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SineWix.cs3",
     "status": 1,
     "version": 5,
     "name": "SineWix",
@@ -496,7 +496,7 @@
     ],
     "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "fileSize": 39175,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -509,26 +509,26 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Sinezy.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinezy.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "Sinezy",
     "internalName": "Sinezy",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-    "fileSize": 15726,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "fileSize": 15727,
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.ink/&size=48",
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/SuperFilmGeldi.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SuperFilmGeldi.cs3",
     "status": 1,
     "version": 22,
     "name": "SuperFilmGeldi",
@@ -538,7 +538,7 @@
     ],
     "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "fileSize": 20360,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -547,7 +547,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Tlc.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tlc.cs3",
     "status": 1,
     "version": 1,
     "name": "Tlc",
@@ -557,7 +557,7 @@
     ],
     "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
     "fileSize": 15277,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -566,7 +566,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Tv8.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Tv8.cs3",
     "status": 1,
     "version": 2,
     "name": "Tv8",
@@ -576,7 +576,7 @@
     ],
     "description": "TV8'in eğlenceli programları, yarışmaları ve dizileri ile keyifle TV izle. Survivor, O Ses Türkiye, Jet Sosyete, Kızım, Yemekteyiz ve Masterchef için TV8 izle.",
     "fileSize": 19823,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
@@ -585,7 +585,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/UgurFilm.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/UgurFilm.cs3",
     "status": 1,
     "version": 3,
     "name": "UgurFilm",
@@ -595,7 +595,7 @@
     ],
     "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "fileSize": 24434,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -604,7 +604,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/Watch32.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Watch32.cs3",
     "status": 1,
     "version": 6,
     "name": "Watch32",
@@ -614,7 +614,7 @@
     ],
     "description": "Watch Your Favorite Movies TV Shows Online - Streaming For Free. With Movies TV Shows Full HD. Find Your Movies Watch NOW!",
     "fileSize": 24977,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "en",
     "tvTypes": [
       "Movie",
@@ -624,7 +624,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/WebDramaTurkey.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebDramaTurkey.cs3",
     "status": 1,
     "version": 7,
     "name": "WebDramaTurkey",
@@ -634,7 +634,7 @@
     ],
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
     "fileSize": 23927,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "AsianDrama",
@@ -645,7 +645,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/WebteIzle.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/WebteIzle.cs3",
     "status": 1,
     "version": 13,
     "name": "WebteIzle",
@@ -655,7 +655,7 @@
     ],
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "fileSize": 40164,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie"
@@ -664,7 +664,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/YabanciDizi.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YabanciDizi.cs3",
     "status": 1,
     "version": 3,
     "name": "YabanciDizi",
@@ -674,7 +674,7 @@
     ],
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "fileSize": 31066,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -684,7 +684,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/builds/YeniWatch.cs3",
+    "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YeniWatch.cs3",
     "status": 1,
     "version": 5,
     "name": "YeniWatch",
@@ -694,7 +694,7 @@
     ],
     "description": "Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
     "fileSize": 16887,
-    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim2",
+    "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
       "Anime"
