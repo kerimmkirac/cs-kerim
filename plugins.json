@@ -716,7 +716,7 @@
     "version": 3,
     "internalName": "YerelDiziler",
     "description": "YerelDiziler için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/YerelDiziler.cs3",
+    "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/YerelDiziler.cs3",
     "name": "YerelDiziler",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
   },
@@ -754,7 +754,7 @@
     "version": 28,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/DiziPal.cs3",
+    "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/DiziPal.cs3",
     "name": "DiziPal",
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128"
   },
@@ -887,7 +887,7 @@
     "version": 2,
     "internalName": "Kanal7",
     "description": "Kanal7 için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Kanal7.cs3",
+    "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Kanal7.cs3",
     "name": "Kanal7",
     "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png"
   },
@@ -906,7 +906,7 @@
     "version": 4,
     "internalName": "Anizium",
     "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Anizium.cs3",
+    "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Anizium.cs3",
     "name": "Anizium",
     "iconUrl": "https://anizium.co/assets/images/logo.png"
   },
@@ -924,7 +924,7 @@
     "version": 3,
     "internalName": "Puhu",
     "description": "Puhu için CloudStream eklentisi",
-    "url": "https://github.com/kerimmkirac/cs-kerim/raw/refs/heads/builds/Puhu.cs3",
+    "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Puhu.cs3",
     "name": "Puhu",
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
   }
