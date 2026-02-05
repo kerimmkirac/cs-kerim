@@ -159,14 +159,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMom.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 33401,
+    "fileSize": 33404,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
