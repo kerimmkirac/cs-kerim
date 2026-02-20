@@ -511,14 +511,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinezy.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Sinezy",
     "internalName": "Sinezy",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-    "fileSize": 15730,
+    "fileSize": 15729,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
