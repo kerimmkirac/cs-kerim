@@ -1,0 +1,334 @@
+name: CloudStream Derleyici
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "**/*.md"
+      - "**/*.yml"
+      - "**/*.jpg"
+      - "**/*.png"
+      - "**/*.py"
+
+jobs:
+  CloudStreamDerleyici:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "'src' Depo Kontrolü"
+        uses: actions/checkout@v4.2.2
+        with:
+          path: "src"
+
+      - name: "'build' Depo Kontrolü"
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: "builds"
+          path: "builds"
+
+      - name: Eski Derlemeleri Temizle 
+        run: find $GITHUB_WORKSPACE/builds -name '*.cs3' ! -name 'AsyaAnimeleri.cs3' ! -name 'DiziPal.cs3' ! -name 'AnimeciX.cs3' ! -name 'InatBox.cs3' ! -name 'Anizium.cs3' ! -name 'RecTV.cs3' ! -name 'FilmMakinesi.cs3' ! -name 'DiziPalOrijinal.cs3' ! -name 'DiziYo.cs3'  ! -name 'HDFilmCehennemi.cs3' ! -name 'Kanal7.cs3' ! -name 'Puhu.cs3'     ! -name 'YerelDiziler.cs3'   -delete
+
+      - name: JDK 21 Ayarla
+        uses: actions/setup-java@v4.6.0
+        with:
+          java-version: 21
+          distribution: adopt
+          cache: gradle
+
+      - name: Android SDK Ayarla
+        uses: android-actions/setup-android@v3.2.2
+
+      - name: Eklentileri Derle
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          chmod +x gradlew
+          ./gradlew make makePluginsJson
+          cp **/build/*.cs3 $GITHUB_WORKSPACE/builds
+          cp build/plugins.json $GITHUB_WORKSPACE/builds
+
+      - name: jq Araçlarını Kur (GolgeTV ve AnimeciX eklemeleri için)
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: YerelDiziler Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "YerelDiziler")' plugins.json > /dev/null; then
+            jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 3,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["Tv"],
+              "version": 3,
+              "internalName": "YerelDiziler",
+              "description": "YerelDiziler için CloudStream eklentisi",
+              "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/YerelDiziler.cs3",
+              "name": "YerelDiziler",
+              "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png"
+            }]' plugins.json > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "YerelDiziler zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: FilmMakinesi Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "FilmMakinesi")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["Tv","Movie"],
+              "version": 8,
+              "internalName": "FilmMakinesi",
+              "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
+              "name": "FilmMakinesi",
+              "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "FilmMakinesi zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: DiziPal Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "DiziPal")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["Tv","Movie"],
+              "version": 28,
+              "internalName": "DiziPal",
+              "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+              "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/DiziPal.cs3",
+              "name": "DiziPal",
+              "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "DiziPal zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: AnimeciX Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "AnimeciX")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["Anime"],
+              "version": 5,
+              "internalName": "AnimeciX",
+              "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/AnimeciX.cs3",
+              "name": "AnimeciX",
+              "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "AnimeciX zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: Dizipalorj Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "DiziPalOrijinal")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries","Movie"],
+              "version": 36,
+              "internalName": "DiziPalOrijinal",
+              "description": "Dizipal Orjinal.",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziPalOrijinal.cs3",
+              "name": "DiziPalOrijinal",
+              "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "DiziPalOrijinal zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: InatBox Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "InatBox")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries","Movie", "Live"],
+              "version": 18,
+              "internalName": "InatBox",
+              "description": "InatBox.",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
+              "name": "InatBox",
+              "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "InatBox zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: DiziYo Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "DiziYo")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries","Movie"],
+              "version": 14,
+              "internalName": "DiziYo",
+              "description": "DiziYo.",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
+              "name": "DiziYo",
+              "iconUrl": "https://i.imgur.com/zQYsL6Z.png"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "DiziYo zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+
+
+
+      - name: RecTV Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "RecTV")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["Tv","Movie","Live"],
+              "version": 5,
+              "internalName": "RecTV",
+              "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/RecTV.cs3",
+              "name": "RecTV",
+              "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "RecTV zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: HDFilmCehennemi Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "HDFilmCehennemi")' plugins.json > /dev/null; then
+            cat plugins.json | jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["Tv","Movie"],
+              "version": 8,
+              "internalName": "HDFilmCehennemi",
+              "description": "Türkiye'\''nin en hızlı hd film izleme sitesi",
+              "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/HDFilmCehennemi.cs3",
+              "name": "HDFilmCehennemi",
+              "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%"
+            }]' > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "HDFilmCehennemi zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: Kanal7 Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "Kanal7")' plugins.json > /dev/null; then
+            jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries"],
+              "version": 2,
+              "internalName": "Kanal7",
+              "description": "Kanal7 için CloudStream eklentisi",
+              "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Kanal7.cs3",
+              "name": "Kanal7",
+              "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png"
+            }]' plugins.json > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "Kanal7 zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: Anizium Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "Anizium")' plugins.json > /dev/null; then
+            jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 2,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["AnimeMovie","Anime"],
+              "version": 4,
+              "internalName": "Anizium",
+              "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+              "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Anizium.cs3",
+              "name": "Anizium",
+              "iconUrl": "https://anizium.co/assets/images/logo.png"
+            }]' plugins.json > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "Anizium zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      - name: Puhu Eklentisini plugins.json'a Elle Ekle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if ! jq -e '.[] | select(.internalName == "Puhu")' plugins.json > /dev/null; then
+            jq '. += [{
+              "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
+              "apiVersion": 1,
+              "status": 1,
+              "language": "tr",
+              "authors": ["kerimmkirac"],
+              "tvTypes": ["TvSeries"],
+              "version": 3,
+              "internalName": "Puhu",
+              "description": "Puhu için CloudStream eklentisi",
+              "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Puhu.cs3",
+              "name": "Puhu",
+              "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+            }]' plugins.json > plugins-new.json && mv plugins-new.json plugins.json
+          else
+            echo "Puhu zaten plugins.json'da mevcut, eklenmedi."
+          fi
+
+      
+
+      - name: Derlemeleri Yükle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Yeni Derleme: $GITHUB_SHA" || exit 0  # Commit yapmadan önce eski commit'i değiştirme
+          git push --force
