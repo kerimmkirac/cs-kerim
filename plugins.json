@@ -255,14 +255,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "Dramacool",
     "internalName": "Dramacool",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-    "fileSize": 22726,
+    "fileSize": 22717,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "en",
     "tvTypes": [
@@ -293,14 +293,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "FilmModu",
     "internalName": "FilmModu",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-    "fileSize": 16082,
+    "fileSize": 16081,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -331,14 +331,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
     "status": 1,
-    "version": 8,
+    "version": 10,
     "name": "HDFilmIzle",
     "internalName": "HDFilmIzle",
     "authors": [
       "kerimmkirac"
     ],
     "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-    "fileSize": 29326,
+    "fileSize": 29327,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
