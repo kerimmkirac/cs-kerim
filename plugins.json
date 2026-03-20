@@ -255,14 +255,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "Dramacool",
     "internalName": "Dramacool",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-    "fileSize": 22717,
+    "fileSize": 22716,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "en",
     "tvTypes": [
@@ -331,14 +331,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "HDFilmIzle",
     "internalName": "HDFilmIzle",
     "authors": [
       "kerimmkirac"
     ],
     "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-    "fileSize": 29327,
+    "fileSize": 29334,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
