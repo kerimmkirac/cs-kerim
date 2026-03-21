@@ -713,7 +713,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
@@ -750,7 +750,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/AnimeciX.cs3",
@@ -769,7 +769,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 36,
+    "version": 37,
     "internalName": "DiziPalOrijinal",
     "description": "Dizipal Orjinal.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziPalOrijinal.cs3",
@@ -789,7 +789,7 @@
       "Movie",
       "Live"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "InatBox",
     "description": "InatBox.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
@@ -808,7 +808,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "DiziYo",
     "description": "DiziYo.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
@@ -828,7 +828,7 @@
       "Movie",
       "Live"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/RecTV.cs3",
@@ -847,7 +847,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/HDFilmCehennemi.cs3",
