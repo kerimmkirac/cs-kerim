@@ -121,14 +121,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dizilla.cs3",
     "status": 1,
-    "version": 14,
+    "version": 16,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "fileSize": 58667,
+    "fileSize": 54050,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
