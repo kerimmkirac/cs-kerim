@@ -99,7 +99,7 @@ class Dizilla(sharedPref: SharedPreferences? = null) : MainAPI() {
 
     override val mainPage = mainPageOf(
         "${mainUrl}/tum-bolumler" to "Yeni Eklenen Bölümler",
-        "26" to "Kore Dizileri"
+        "26" to "Kore Dizileri",
         "yeni" to "Yeni Diziler",
 
         
