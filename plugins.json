@@ -680,14 +680,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YabanciDizi.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "YabanciDizi",
     "internalName": "YabanciDizi",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "fileSize": 31066,
+    "fileSize": 31068,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -696,7 +696,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-72dbff94545b6d31e71fd289a05e29d48ccf64855a9aeaf9d00b7902fd46b8d3"
+    "fileHash": "sha256-3b98430fb2792931a44ec5bf8fd2a1b3ae8f4066ef779d09f59c0e2d88688d98"
   },
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/YeniWatch.cs3",
