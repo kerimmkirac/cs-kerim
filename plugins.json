@@ -729,7 +729,7 @@
     "tvTypes": [
       "Tv"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "YerelDiziler",
     "description": "YerelDiziler için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/YerelDiziler.cs3",
@@ -748,7 +748,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "FilmMakinesi",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
@@ -767,7 +767,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "DiziPal",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/DiziPal.cs3",
@@ -785,7 +785,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/AnimeciX.cs3",
@@ -804,7 +804,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 37,
+    "version": 38,
     "internalName": "DiziPalOrijinal",
     "description": "Dizipal Orjinal.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziPalOrijinal.cs3",
@@ -824,7 +824,7 @@
       "Movie",
       "Live"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "InatBox",
     "description": "InatBox.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
@@ -843,7 +843,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "DiziYo",
     "description": "DiziYo.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
@@ -863,7 +863,7 @@
       "Movie",
       "Live"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/RecTV.cs3",
@@ -882,7 +882,7 @@
       "Tv",
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/HDFilmCehennemi.cs3",
@@ -900,7 +900,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "Kanal7",
     "description": "Kanal7 için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Kanal7.cs3",
@@ -919,7 +919,7 @@
       "AnimeMovie",
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Anizium",
     "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
     "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Anizium.cs3",
@@ -937,7 +937,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "Puhu",
     "description": "Puhu için CloudStream eklentisi",
     "url": "https://github.com/kerimmkirac/http-protocol-redirector/raw/refs/heads/main/Puhu.cs3",
