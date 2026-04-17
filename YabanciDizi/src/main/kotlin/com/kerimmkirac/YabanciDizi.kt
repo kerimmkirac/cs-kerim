@@ -17,7 +17,7 @@ import okhttp3.Response
 import org.jsoup.Jsoup
 
 class YabanciDizi : MainAPI() {
-    override var mainUrl = "https://yabancidizi.so"
+    override var mainUrl = "https://yabancidizi.life"
     override var name = "YabanciDizi"
     override val hasMainPage = true
     override var lang = "tr"
