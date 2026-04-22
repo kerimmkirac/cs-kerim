@@ -537,14 +537,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Sinezy.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "Sinezy",
     "internalName": "Sinezy",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-    "fileSize": 15729,
+    "fileSize": 15731,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -552,7 +552,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.ink/&size=48",
     "apiVersion": 1,
-    "fileHash": "sha256-0072aa174e54c6b6979c215dcfc53c3bcd9d754b3691621ce75ba64c065235d6"
+    "fileHash": "sha256-7aa526fee24a674200bffb00bc5929ee0cbee7333a591dd605d917d8e94d086d"
   },
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/SuperFilmGeldi.cs3",
