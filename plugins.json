@@ -268,14 +268,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "Dramacool",
     "internalName": "Dramacool",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-    "fileSize": 22719,
+    "fileSize": 22722,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "en",
     "tvTypes": [
@@ -283,7 +283,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7dea2ba350646816e9eb735026653664c5ba900aa76cd8b6ac73099d09971563"
+    "fileHash": "sha256-5154dd666a7bacd5546ee99f05951dc667c7d509daa8524bc6fa1c9af64dff57"
   },
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmEkseni.cs3",
