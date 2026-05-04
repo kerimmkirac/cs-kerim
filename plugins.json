@@ -328,14 +328,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 59228,
+    "fileSize": 59231,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -343,7 +343,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.tv&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6f9bc0b037846f0d2c0301d2752754b453962c8481f6316d2a55670e979f3601"
+    "fileHash": "sha256-204f2334518d8ba20cd676d1d83ec70e85b74cd381d0285952e87752f3dff509"
   },
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
