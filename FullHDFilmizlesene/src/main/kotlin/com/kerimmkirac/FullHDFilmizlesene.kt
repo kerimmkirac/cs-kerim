@@ -15,7 +15,7 @@ import kotlin.collections.iterator
 
 
 class FullHDFilmizlesene : MainAPI() {
-    override var mainUrl = "https://www.fullhdfilmizlesene.live"
+    override var mainUrl = "https://www.fullhdfilmizlesene.life"
     override var name = "FullHDFilmizlesene"
     override val hasMainPage = true
     override var lang = "tr"
