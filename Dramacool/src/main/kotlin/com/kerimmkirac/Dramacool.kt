@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.LoadResponse.Companion.addTrailer
 import android.util.Base64
 
 class Dramacool : MainAPI() {
-    override var mainUrl = "https://dramaccool.buzz"
+    override var mainUrl = "https://dramacoolltvx.buzz"
     override var name = "Dramacool"
     override val hasMainPage = true
     override var lang = "en"
