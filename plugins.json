@@ -167,14 +167,14 @@
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMom.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 33403,
+    "fileSize": 33395,
     "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
     "language": "tr",
     "tvTypes": [
@@ -182,7 +182,7 @@
     ],
     "iconUrl": "https://www.dizimom.one/wp-content/uploads/2019/07/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-76b397f695d534b01fd83a562f18c56b25b226a1a6f8166e7977fefef1010d45"
+    "fileHash": "sha256-b282242ac5136fe0eb669243f611bb91ac8c0a2ab215b6ce2c8bb0afd325b7e9"
   },
   {
     "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/DiziMore.cs3",
